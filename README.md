@@ -57,7 +57,7 @@ The project is organized into several folders for better organization and separa
 
 ## Running the Application
 
-Once the installation is complete, you can run the application with the following command:
+Once the application is complete, you can run the application with the following command:
 
 ```bash
 python spacex_dash_app.py
